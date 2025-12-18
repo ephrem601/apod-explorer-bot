@@ -37,13 +37,7 @@ This bot is designed for:
 - No personal data is stored
 - Uses only public NASA APIs
 - Not affiliated with NASA
-
-📄 Privacy Policy:  
-`PRIVACY_POLICY.md`
-
-📜 Terms & Conditions:  
-`TERMS_AND_CONDITIONS.md`
-
+ 
 ---
 
 ## ⚙️ Tech Stack
