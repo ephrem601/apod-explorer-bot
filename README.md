@@ -19,7 +19,6 @@ This bot is designed for:
 - Students and educators
 - Space enthusiasts
 - Educational demonstrations
-- Learning API integration with Python & Django
 
 ---
 
@@ -39,11 +38,6 @@ This bot is designed for:
 - Not affiliated with NASA
  
 ---
-
-## ⚙️ Tech Stack
-- Django
-- python-telegram-bot
-- NASA Open APIs
 
 ---
 
