@@ -41,8 +41,7 @@ This bot is designed for:
 
 ---
 
-## 👤 Developer
-**Ephrem Nigussie**  
-📧 Email: ephremnigussie7@gmail.com  
+## 👤 Contact   
+**📧 ephremnigussie7@gmail.com**  
 
  
